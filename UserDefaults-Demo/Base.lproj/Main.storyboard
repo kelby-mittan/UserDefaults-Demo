@@ -104,6 +104,7 @@
                     </tableView>
                     <navigationItem key="navigationItem" id="t6n-yC-3FN"/>
                     <connections>
+                        <outlet property="bikeRunImage" destination="jj1-0n-O8w" id="h5n-vi-Msq"/>
                         <outlet property="unitMeasurementLabel" destination="NnR-o7-cb5" id="AFe-RT-NTa"/>
                     </connections>
                 </tableViewController>
